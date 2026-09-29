@@ -1,2 +1,2 @@
-# M782-Embedded-Software-Design-and-Programming
+# embedded-c-experiments
 C/C++ experiments and embedded systems learning projects
